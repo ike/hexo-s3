@@ -1,0 +1,26 @@
+{
+  "name": "hexo-s3",
+  "version": "1.0.0",
+  "description": "Deploy and sync your Hexo site to Amazon s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ike/hexo-s3"
+  },
+  "keywords": [
+    "hexo",
+    "aws",
+    "s3",
+    "sync",
+    "deploy"
+  ],
+  "author": "Isaac Lewis <isaac@andyet.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ike/hexo-s3/issues"
+  },
+  "homepage": "https://github.com/ike/hexo-s3"
+}
